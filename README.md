@@ -20,7 +20,7 @@ Site de rencontre similaire au célèbre Meetic
 * Temps du Projet **2 Semaines** Premier Projet avec requête AJAX
 
 ## Demo
-> https://puissance4.dibodev.com/
+> https://my-meetic.dibodev.com
 
 ## Technologies
 HTML5, CSS3, Jquery, Ajax, Php
